@@ -95,6 +95,13 @@
             "feed_url": "https://alejandromp.com/blog/feed.xml",
             "twitter_url": "https://twitter.com/alexito4"
           },
+           {
+            "title": "iOS Examples",
+            "author": "Frank",
+            "site_url": "https://iosexample.com/",
+            "feed_url": "https://iosexample.com/rss/",
+            "twitter_url": "https://twitter.com/heshanfu"
+          },
           {
             "title": "Aleksandar Vacić's blog",
             "author": "Aleksandar Vacić",
