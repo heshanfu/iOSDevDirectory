@@ -2693,6 +2693,13 @@
             "twitter_url": "https://twitter.com/appbotx"
           },
           {
+            "title": "iOS Example",
+            "author": "Frank",
+            "site_url": "https://iosexample.com",
+            "feed_url": "https://iosexample.com/rss",
+            "twitter_url": "https://twitter.com/heshanfu"
+          },
+          {
             "title": "Apptentive",
             "author": "Ashley Sefferman, Robi Ganguly",
             "site_url": "https://www.apptentive.com/blog",
